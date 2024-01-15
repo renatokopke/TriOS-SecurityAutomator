@@ -1,0 +1,2 @@
+- name: Linux specific configuration
+  shell: <command_for_linux>

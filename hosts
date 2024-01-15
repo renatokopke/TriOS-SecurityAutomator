@@ -1,0 +1,10 @@
+[windows]
+192.168.1.245
+
+[linux]
+#host_linux ansible_host=192.168.1.101 ansible_connection=ssh ansible_user=your_username ansible_ssh_pass=your_password
+192.168.1.101
+
+[macos]
+#host_macos ansible_host=192.168.1.102 ansible_connection=ssh ansible_user=your_username ansible_ssh_pass=your_password
+192.168.1.102

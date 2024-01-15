@@ -1,0 +1,4 @@
+- name: e.g. Create a directory in C:\
+  win_file:
+    path: c:\test
+    state: directory

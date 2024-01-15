@@ -1,0 +1,2 @@
+- name: MacOS specific configuration
+  command: <command_for_macos>
